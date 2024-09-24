@@ -42,6 +42,10 @@ public class pemdas1 {
         System.out.println(kebenaran1);
         // Referensi bacaan : https://www.geeksforgeeks.org/scanner-class-in-java/
 
+        //Contoh input Char ---------------------------------------------------------------------------------
+        char karakter = scanner.next().charAt(0);
+        System.out.println(karakter);
+
         //Contoh input ---------------------------------------------------------------------------------
         // penggunaan input.nextLine();
 
