@@ -48,7 +48,7 @@ public class Materi2 {
         } else if (jam < 18) {
             System.out.println("Sore");
         } else {
-            System.out.println("Malang");
+            System.out.println("Malam");
         }
 
         //------------------------------------------------------------------------------
