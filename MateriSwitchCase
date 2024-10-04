@@ -12,6 +12,7 @@ public class pemdas3 {
         //         break;
         // }
 
+        //SWITCH CASE BERTIPE DATA STRING
         // String nama = "naufal";
         // int umur = 10;
 
@@ -42,6 +43,20 @@ public class pemdas3 {
         //         System.out.println("Nama Aku Siapa?");
         //         break;
         // }
+
+        // SWITCH CASE BERTIPE DATA CHAR
+        // char grade = 'A';
+
+        // switch (grade) {
+        //   case 'A':
+        //       System.out.println("Excellent!");
+        //       break;
+        //   case 'B':
+        //       System.out.println("Good");
+        //       break;
+        //   default:
+                System.out.println("Invalid grade");
+        //}
 
 
         // // LENGTH, CHARAT, DAN SUBSTRING
