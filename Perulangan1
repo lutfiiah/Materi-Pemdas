@@ -79,6 +79,7 @@ public class Perulangan1 {
         //         break;
         //         case "EXIT" :
         //         System.out.println("Penulisan perintah selesai");
+        //         masukLoop = false;
         //         break;
         //     }
         // }
