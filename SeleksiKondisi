@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Materi2 {
+public class SeleksiKondisi {
     public static void main(String[] args) {
         // SELEKSI KONDISI
         // Ada 3 jenis seleksi kondisi 
