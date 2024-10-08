@@ -152,7 +152,7 @@ public class Perulangan1 {
         //             break;
         //         }
         //     }
-        //     System.out.println("\n");
+        //     System.out.println("");
         // }
 
     }
