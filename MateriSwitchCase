@@ -88,6 +88,8 @@ public class pemdas3 {
 
         // // SUBSTRING = mengambil beberapa huruf dalam suatu kata/kalimat
         // // namavariabel.substring(mulai index ke berapa, berhenti di index ke berapa)
+        // // jika hanya memiliki 1 index di dalam substring, maka dia akan mengambil mulai dari index tersebut hingga index terakhir
+
         
         // // String nama6 = "SALSABILA CACA";
 
